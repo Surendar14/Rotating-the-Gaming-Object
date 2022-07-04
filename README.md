@@ -39,6 +39,7 @@ Stop
 ## Program:
 Developed by Surendar.S
 Reg.No: 212220230051
+~~~~~~~~~~~
 
 using System.Collections;
 using System.Collections.Generic;
@@ -58,7 +59,7 @@ public class suru : MonoBehaviour
         transform.RotateAround(Vector3.right, Vector3.up, 40 * Time.deltaTime);
     }
 }
-~~~~~~~~~~
+~~~~~~~~~~~~~
 
 ## Output:
 ![Screenshot (1)](https://user-images.githubusercontent.com/75235759/165440536-38052a0d-82b2-41db-b147-18aa35f58cae.png)
